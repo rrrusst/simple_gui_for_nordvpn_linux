@@ -1,4 +1,4 @@
-# simple_gui_for_nordvpn_linux
+# Simple GUI for NordVPN (Linux)
 A no-frills, simple GUI for NordVPN on Linux using only Python's built-in modules.
 
 Work-in-progress.
